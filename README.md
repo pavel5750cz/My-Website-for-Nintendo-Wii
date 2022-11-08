@@ -1,1 +1,2 @@
-# My-Website-for-Nintendo-Wii
+This is not complete website but its public and in development. I am doing my game for android and later for wii so this will be a propagation site (8.11.2022 8:29).
+My game titled ***** ***** is in private beta and only few of my friends currently have access to the APK to have on their phone. Or you can also view it from my phone but I am most likely very far from you so you will have hard time finding me probably.
